@@ -1,0 +1,11 @@
+{
+  "name": "jft-autoconfig",
+  "version": "1.0.0",
+  "description": "Webapp with tools to quickly build configuration for git, npm, etc through proxy or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Julien Folliot",
+  "license": "MIT"
+}
