@@ -7,5 +7,8 @@
     "test": "mocha --reporter spec"
   },
   "author": "Julien Folliot",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }
